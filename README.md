@@ -10,6 +10,6 @@ methods e.g getFactorial(), sqrt() aka Math class in JDK
 * README.md - this file itself to show the home-page of a repo
 
 ### Connect me via:
-[Facebook](https://www.facebook.com/giahuy100720)
+[Facebook](https://www.facebook.com/GHuy.Elo/)
  
 #### © 2020 by Huy100720
